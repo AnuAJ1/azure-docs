@@ -140,7 +140,7 @@ Cross-region data migrations should be avoided because the migration takes a lon
 
 ### Single Server to Flexible Server migration tool
 
-The [Single Server to Flexible Server migration tool](/azure/postgresql/migrate/concepts-single-to-flexible) is a powerful tool that allows you to migrate your SQL Server database from a single server to a flexible server with ease. With this tool, you can easily move your database from an on-premises server or a virtual machine to a flexible server in the cloud, allowing you to take advantage of the scalability and flexibility of cloud computing.
+The [Single Server to Flexible Server migration tool](../migrate/concepts-single-to-flexible.md) is a powerful tool that allows you to migrate your SQL Server database from a single server to a flexible server with ease. With this tool, you can easily move your database from an on-premises server or a virtual machine to a flexible server in the cloud, allowing you to take advantage of the scalability and flexibility of cloud computing.
 
 **Q. Which data, schema, and metadata components are migrated as part of the migration?**
 
