@@ -124,7 +124,7 @@ Sometimes called a _public key_, a certificate is the recommended credential typ
 
 Sometimes called an _application password_, a client secret is a string value your app can use in place of a certificate to identity itself.
 
-Client secrets are considered less secure than certificate credentials. Application developers sometimes use client secrets during local app development because of their ease of use. However, you should use certificate credentials for any of your applications that are running in production.
+Client secrets are considered less secure than certificate credentials. Application developers sometimes use client secrets during local app development because of their ease of use. However, you should not use certificate credentials for any of your applications that are running in production.
 
 1. In the Azure portal, in **App registrations**, select your application.
 1. Select **Certificates & secrets** > **Client secrets** > **New client secret**.
